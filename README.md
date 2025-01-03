@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### Hello, I'm Bikrant👋<br><br>🚀 Full-stack developer passionate about creating efficient, scalable solutions.<br>🌱 Always learning and exploring new technologies.<br>💼 Open to exciting opportunities in innovative tech environments.<br>
+### Hello, I'm Bikrant👋<br><br>🚀 Full-stack developer passionate about creating efficient, scalable solutions.<br>🌱 Always learning and exploring new technologies.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikrant-gautam-90983057/) 

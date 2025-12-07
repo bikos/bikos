@@ -1,9 +1,7 @@
 ## 💫 About Me:
-### Hello, I'm Bikrant👋<br><br>🚀 Full-stack developer passionate about creating efficient, scalable solutions.<br>🌱 Always learning and exploring new technologies.<br><br>
+### Hello, I'm a Full-stack developer passionate about creating efficient, scalable solutions.<br>🌱 Always learning and exploring new technologies.<br><br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikrant-gautam-90983057/) 
-[![Web](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://bikos.netlify.app)
+
 
 ## 💻 Tech Stack:
 ### Languages
